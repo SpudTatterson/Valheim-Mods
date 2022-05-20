@@ -1,0 +1,9 @@
+{
+    "name": "InvisArmor",
+    "version_number": "1.3.2",
+    "website_url": "https://www.nexusmods.com/valheim/mods/410",
+    "description": "Makes the armor invisible but still give armor points can be toggled on and off using H, u can also hide each piece of armor individually now",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.800"
+    ]
+}

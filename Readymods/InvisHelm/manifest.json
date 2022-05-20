@@ -1,0 +1,9 @@
+{
+    "name": "InvisHelm",
+    "version_number": "1.1.3",
+    "website_url": "https://www.nexusmods.com/valheim/mods/192",
+    "description": "Makes the helmet invisible but still give armor also allows you to wear dverger while wearing other helmets can be toggled on and off using H",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.800"
+    ]
+}

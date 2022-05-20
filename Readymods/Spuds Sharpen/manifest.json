@@ -1,0 +1,10 @@
+{
+    "name": "SpudsSharpness",
+    "version_number": "1.0.2",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1016/",
+    "description": "This mod adds a simple building piece called the Grindstone that allows you to sharpen your weapon which will give them a buff that makes them deal 30% more damage for 10 minutes",
+    "dependencies": [
+		"ValheimModding-ValheimLib-0.0.15",
+        "denikson-BepInExPack_Valheim-5.4.900"
+    ]
+}
