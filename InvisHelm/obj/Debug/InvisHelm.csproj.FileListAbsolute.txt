@@ -1,0 +1,13 @@
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\InvisHelm.dll
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\InvisHelm.pdb
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\0Harmony.dll
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\assembly_valheim_publicized.dll
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\BepInEx.dll
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\UnityEngine.CoreModule.dll
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\UnityEngine.dll
+E:\My Creations\valheim mods\InvisHelm\obj\Debug\InvisHelm.csprojAssemblyReference.cache
+E:\My Creations\valheim mods\InvisHelm\obj\Debug\InvisHelm.csproj.CoreCompileInputs.cache
+E:\My Creations\valheim mods\InvisHelm\obj\Debug\InvisHelm.csproj.CopyComplete
+E:\My Creations\valheim mods\InvisHelm\obj\Debug\InvisHelm.dll
+E:\My Creations\valheim mods\InvisHelm\obj\Debug\InvisHelm.pdb
+E:\My Creations\valheim mods\InvisHelm\bin\Debug\UnityEngine.InputLegacyModule.dll

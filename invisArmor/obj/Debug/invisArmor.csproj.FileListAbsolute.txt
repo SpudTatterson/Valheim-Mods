@@ -1,0 +1,15 @@
+E:\My Creations\valheim mods\invisArmor\bin\Debug\invisArmor.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\invisArmor.pdb
+E:\My Creations\valheim mods\invisArmor\obj\Debug\invisArmor.csprojAssemblyReference.cache
+E:\My Creations\valheim mods\invisArmor\obj\Debug\invisArmor.csproj.CoreCompileInputs.cache
+E:\My Creations\valheim mods\invisArmor\obj\Debug\invisArmor.dll
+E:\My Creations\valheim mods\invisArmor\obj\Debug\invisArmor.pdb
+E:\My Creations\valheim mods\invisArmor\bin\Debug\0Harmony.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\assembly_valheim_publicized.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\BepInEx.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\MMHOOK_assembly_valheim.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\UnityEngine.CoreModule.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\UnityEngine.dll
+E:\My Creations\valheim mods\invisArmor\bin\Debug\UnityEngine.InputLegacyModule.dll
+E:\My Creations\valheim mods\invisArmor\obj\Debug\invisArmor.csproj.CopyComplete
+E:\My Creations\valheim mods\invisArmor\bin\Debug\assembly_utils_publicized.dll
