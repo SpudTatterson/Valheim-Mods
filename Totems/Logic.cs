@@ -30,28 +30,9 @@ namespace Totem.logic
                 return 4;
             }
             //var item = player.m_inventory.GetItem(itemdrop.m_itemData.m_shared.m_name);
-            if (item.m_quality == 1)
-            {               
-                Console.instance.Print("1");
-                return 0;
-            }
-            if (item.m_quality == 2)
-            {
-                Console.instance.Print("2");
-                return 1;
-            }
-            if (item.m_quality == 3)
-            {
-                Console.instance.Print("3");
-                return 2;
-            }
-            if (item.m_quality == 4)
-            {
-                Console.instance.Print("4");                
-                return 3;
-            }
-            return 1;
-
+            
+            
+            return item.m_quality - 1;
         }
 
 
